@@ -1,5 +1,5 @@
 # D18F19
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mustafaquraish/D18F19/master?filepath=Curves2D.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mustafaquraish/D18F19/master)
 
-This repo contains a Jupyter Notebook for the Week 2 tutorial for CSCD18 Fall 2019.
+This repo contains the jupyter notebooks used in the CSCD18 Tutorials for Fall 2019.
