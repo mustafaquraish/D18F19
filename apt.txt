@@ -3,3 +3,4 @@ octave-symbolic
 octave-miscellaneous
 gnuplot
 ghostscript
+texlive-xetex
